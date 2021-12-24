@@ -1,0 +1,5 @@
+C:\Users\Herma\source\repos\Watchdog\bin\publish\Watchdog.exe
+C:\Users\Herma\source\repos\Watchdog\bin\publish\Watchdog.dll
+C:\Users\Herma\source\repos\Watchdog\bin\publish\Watchdog.deps.json
+C:\Users\Herma\source\repos\Watchdog\bin\publish\Watchdog.runtimeconfig.json
+C:\Users\Herma\source\repos\Watchdog\bin\publish\Watchdog.pdb
