@@ -1,0 +1,14 @@
+C:\Users\Herma\source\repos\BombcryptoWatchdog\bin\Release\net6.0\Watchdog.exe
+C:\Users\Herma\source\repos\BombcryptoWatchdog\bin\Release\net6.0\Watchdog.deps.json
+C:\Users\Herma\source\repos\BombcryptoWatchdog\bin\Release\net6.0\Watchdog.runtimeconfig.json
+C:\Users\Herma\source\repos\BombcryptoWatchdog\bin\Release\net6.0\Watchdog.dll
+C:\Users\Herma\source\repos\BombcryptoWatchdog\bin\Release\net6.0\Watchdog.pdb
+C:\Users\Herma\source\repos\BombcryptoWatchdog\obj\Release\net6.0\Watchdog.csproj.AssemblyReference.cache
+C:\Users\Herma\source\repos\BombcryptoWatchdog\obj\Release\net6.0\Watchdog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Herma\source\repos\BombcryptoWatchdog\obj\Release\net6.0\Watchdog.AssemblyInfoInputs.cache
+C:\Users\Herma\source\repos\BombcryptoWatchdog\obj\Release\net6.0\Watchdog.AssemblyInfo.cs
+C:\Users\Herma\source\repos\BombcryptoWatchdog\obj\Release\net6.0\Watchdog.csproj.CoreCompileInputs.cache
+C:\Users\Herma\source\repos\BombcryptoWatchdog\obj\Release\net6.0\Watchdog.csproj.Fody.CopyLocal.cache
+C:\Users\Herma\source\repos\BombcryptoWatchdog\obj\Release\net6.0\Watchdog.dll
+C:\Users\Herma\source\repos\BombcryptoWatchdog\obj\Release\net6.0\Watchdog.pdb
+C:\Users\Herma\source\repos\BombcryptoWatchdog\obj\Release\net6.0\Watchdog.genruntimeconfig.cache

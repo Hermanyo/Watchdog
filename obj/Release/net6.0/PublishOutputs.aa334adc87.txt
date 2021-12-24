@@ -1,0 +1,5 @@
+C:\Users\Herma\source\repos\BombcryptoWatchdog\bin\Release\net6.0\publish\BombcryptoWatchdog.exe
+C:\Users\Herma\source\repos\BombcryptoWatchdog\bin\Release\net6.0\publish\BombcryptoWatchdog.dll
+C:\Users\Herma\source\repos\BombcryptoWatchdog\bin\Release\net6.0\publish\BombcryptoWatchdog.runtimeconfig.json
+C:\Users\Herma\source\repos\BombcryptoWatchdog\bin\Release\net6.0\publish\BombcryptoWatchdog.pdb
+C:\Users\Herma\source\repos\BombcryptoWatchdog\bin\Release\net6.0\publish\BombcryptoWatchdog.deps.json
